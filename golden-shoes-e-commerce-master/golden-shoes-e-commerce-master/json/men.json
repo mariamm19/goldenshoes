@@ -1,0 +1,28 @@
+{
+  "men": [
+    {
+      "kategori": "Men",
+      "nama": "Superstar Shoes",
+      "harga": "£. 200.00",
+      "gambar": "1.png"
+    },
+    {
+      "kategori": "Men",
+      "nama": "Dame 6 Geek Up Shoes",
+      "harga": "£. 90.00",
+      "gambar": "2.png"
+    },
+    {
+      "kategori": "Men",
+      "harga": "£. 195.00",
+      "nama": "Ultraboost Shoes",
+      "gambar": "3.png"
+    },
+    {
+      "kategori": "Men",
+      "harga": "£. 95.00",
+      "nama": "Ginko Shoes",
+      "gambar": "4.png"
+    }
+  ]
+}

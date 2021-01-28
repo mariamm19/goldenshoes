@@ -1,0 +1,28 @@
+{
+  "kids": [
+    {
+      "kategori": "Kids",
+      "nama": "Superstar Shoes",
+      "harga": "£. 40.00",
+      "gambar": "1.png"
+    },
+    {
+      "kategori": "Kids",
+      "nama": "Stan Smith Shoes",
+      "harga": "£. 45.00",
+      "gambar": "2.png"
+    },
+    {
+      "kategori": "Kids",
+      "harga": "£. 70.00",
+      "nama": "OZWEEGO Shoes",
+      "gambar": "3.png"
+    },
+    {
+      "kategori": "Kids",
+      "harga": "£. 60.00",
+      "nama": "Nike Jogger Shoes",
+      "gambar": "4.png"
+    }
+  ]
+}

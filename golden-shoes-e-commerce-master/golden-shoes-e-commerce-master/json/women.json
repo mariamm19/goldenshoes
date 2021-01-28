@@ -1,0 +1,28 @@
+{
+  "women": [
+    {
+      "kategori": "Women",
+      "nama": "Falcon Shoes",
+      "harga": "£. 200.00",
+      "gambar": "1.png"
+    },
+    {
+      "kategori": "Women",
+      "nama": "SL20 SUMMER RDY Shoes",
+      "harga": "£. 50.00",
+      "gambar": "2.png"
+    },
+    {
+      "kategori": "Women",
+      "harga": "£. 195.00",
+      "nama": "Fluidflow Shoes",
+      "gambar": "3.png"
+    },
+    {
+      "kategori": "Women",
+      "harga": "£. 90.00",
+      "nama": "Luxury Shoes",
+      "gambar": "4.png"
+    }
+  ]
+}

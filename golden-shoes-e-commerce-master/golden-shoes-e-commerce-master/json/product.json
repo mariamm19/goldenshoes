@@ -1,0 +1,28 @@
+{
+  "produk": [
+    {
+      "kategori": "Men",
+      "nama": "Ultraboost Shoes",
+      "harga": "£.80.00",
+      "gambar": "men3.png"
+    },
+    {
+      "kategori": "Kids",
+      "nama": "Nike Jogger Shoes",
+      "harga": "£.70.00",
+      "gambar": "kids4.png"
+    },
+    {
+      "kategori": "Women",
+      "harga": "£. 30.00",
+      "nama": "Superstar Shoes",
+      "gambar": "women.png"
+    },
+    {
+      "kategori": "Men",
+      "harga": "£. 80.00",
+      "nama": "Ginko Shoes",
+      "gambar": "men4.png"
+    }
+  ]
+}
